@@ -18,7 +18,11 @@ Network Session Monitor не вмешивается в игры, не читае
 
 ## Скачать
 
-Открой раздел **Releases** и скачай последний архив:
+Последнюю версию можно скачать здесь:
+
+https://github.com/eksployver/NetworkSessionMonitor-Releases/releases/latest
+
+Или открой раздел **Releases** справа на странице репозитория и скачай архив:
 
 ```text
 NetworkSessionMonitor-win-x64.zip
