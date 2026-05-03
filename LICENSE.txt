@@ -1,0 +1,23 @@
+Network Session Monitor End User License
+
+Copyright (c) 2026 Kirill Beltyukov. All rights reserved.
+
+This software is provided for personal, non-commercial use only.
+
+You may:
+- download and use the official compiled application for personal non-commercial use;
+- share the official GitHub release link.
+
+You may not, without explicit written permission from the copyright holder:
+- sell this software;
+- distribute paid copies of this software;
+- repackage this software as your own product;
+- redistribute modified versions;
+- use this software commercially;
+- remove or alter copyright notices;
+- claim this software as your own;
+- use the project name or branding to imply official endorsement.
+
+The source code is proprietary and is not licensed for public use, copying, modification, or redistribution.
+
+This software is provided "as is", without warranty of any kind. The author is not liable for any damages or losses arising from the use of this software.
